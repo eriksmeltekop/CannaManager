@@ -1,0 +1,11 @@
+{
+  "title": "Cannabis Grow Manager",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Setup Cannabis Grow Manager",
+        "description": "Configure the cannabis grow manager settings."
+      }
+    }
+  }
+}
